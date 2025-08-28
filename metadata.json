@@ -1,0 +1,5 @@
+{
+  "name": "Karnataka Court Fee Calculator",
+  "description": "A calculator to estimate court fees for various case types in Karnataka based on the Karnataka Court-Fee and Suits Valuation Act, 1958.",
+  "requestFramePermissions": []
+}
